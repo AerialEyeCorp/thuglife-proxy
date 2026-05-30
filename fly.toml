@@ -1,4 +1,4 @@
-app = "binance-proxy-thuglife"
+app = "thuglife-proxy"
 primary_region = "cdg"
 
 [build]
